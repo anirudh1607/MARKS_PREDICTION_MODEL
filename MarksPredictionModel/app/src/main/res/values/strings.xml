@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Marks Prediction Model</string>
+    <string name="app_name_short">MPM</string>
+    <string name="enter_hours">Enter No. of hours you study in a day</string>
+    <string name="hours_hint">Eg. 8</string>
+    <string name="enter_hint_hours">No. of hours should be between 1-19</string>
+    <string name="result">Predicted Result</string>
+    <string name="cal">Calculate</string>
+    <string name="error_hours">Please enter valid number of hours</string>
+    <string name="powered_by">Powered By</string>
+    <string name="chandigarh_uni">Chandigarh University</string>
+</resources>
